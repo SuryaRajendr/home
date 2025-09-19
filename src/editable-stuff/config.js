@@ -125,7 +125,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Surya Rajendran. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://drive.google.com/file/d/1H2IIQAZ3OJWsnp-NiXJa6JRjnP8DIIZK/view",
+  resume: "../editable-stuff/Surya_Rajendran_Resume.pdf",
 };
 
 // PROJECTS SECTION
@@ -204,10 +204,15 @@ const experiences = {
   show: true,
   heading: "Experiences",
   data: [
+        {
+      role: 'Senior Associate Technology',// Here Add Company Name
+      companylogo: require('../assets/img/Synechron.png'),
+      date: 'March 2025 – Present',
+    },
     {
       role: 'Senior Engineer',// Here Add Company Name
       companylogo: require('../assets/img/aspireSystems.png'),
-      date: 'May 2022 – Present',
+      date: 'May 2022 – March 2025',
     },
     {
       role: 'Software Developer',
