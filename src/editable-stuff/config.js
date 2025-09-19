@@ -125,7 +125,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Surya Rajendran. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "../editable-stuff/Surya_Rajendran_Resume.pdf",
+  resume: "../editable-stuff/SuryaRajendran_resume.pdf",
 };
 
 // PROJECTS SECTION
