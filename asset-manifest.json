@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.f4e4d60e.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/SuryaRajendran.jpeg": "/home/static/media/SuryaRajendran.8036928ba759429ac361.jpeg",
-    "static/media/venbaInfotech.png": "/home/static/media/venbaInfotech.258b8345ff557c5ff821.png",
-    "static/media/cavintek.png": "/home/static/media/cavintek.be4df1d5630fa8ddbfa2.png",
-    "index.html": "/home/index.html",
-    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.f4e4d60e.js.map": "/home/static/js/main.f4e4d60e.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.b66e5be6.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/venbaInfotech.png": "/static/media/venbaInfotech.258b8345ff557c5ff821.png",
+    "static/media/cavintek.png": "/static/media/cavintek.be4df1d5630fa8ddbfa2.png",
+    "static/media/SuryaRajendran.jpeg": "/static/media/SuryaRajendran.2e7a68b8d3f71693f43b.jpeg",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.b66e5be6.js.map": "/static/js/main.b66e5be6.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.f4e4d60e.js"
+    "static/js/main.b66e5be6.js"
   ]
 }
